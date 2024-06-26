@@ -20,6 +20,7 @@ Manejo con fluidez los siguientes programas:
 - ArcGIS Pro
 - Ofimatica (Word, Excel, PowerPoint, libreoffice)
 - [KoboToolbox](https://www.kobotoolbox.org/)
+- Python
 
 Recientemente estoy profundizando en mis conocimientos sobre QGIS, para el desarrollo de complementos y ya publiqué el primero.
 
