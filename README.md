@@ -6,13 +6,13 @@ Tengo experiencia en elaboración de Estudios de Impacto Ambiental (EIA) aplican
 Durante mi vida profesional he aplicado mis conocimientos en programación y manejo de sistemas de información geográfica para llevar a cabo estudios de impacto ambiental para la obtención de licencias ambientales, así como modificación de licencias ambientales para proyectos como Pequeñas Centrales Hidroelétricas (PCH), líneas de transmisión de energía, vías férreas y proyectos de minería, para empresas como [EPM](https://www.epm.com.co/), [ISA Intercolombia](https://www.isaintercolombia.com/), [ISAGEN](https://www.isagen.com.co/es/web/guest/home), entre otras.
 
 Los temas desarrollados en los estudios de impacto ambiental se relacionan con:
--👨‍💻 Desarrollo de herramientas para agilizar procesos usando PYQGIS y ArcPy.
--👨‍💻 Diligenciamiento de bases de datos en [modelo ANLA](https://www.anla.gov.co/01_anla/entidad/subdirecciones-y-oficinas/instrumentos-permisos-y-tramites-ambientales/sistema-de-informacion-geografica)
--🌧️ Hidrología
--🌄 Paisaje
--🐞 Servicios ecosistémicos
--👨‍🏫 Evaluación de impactos ambientales
--👨‍🏫 Elaboración de planes de manejo ambiental (PMA)
+- 👨‍💻 Desarrollo de herramientas para agilizar procesos usando PYQGIS y ArcPy.
+- 👨‍💻 Diligenciamiento de bases de datos en [modelo ANLA](https://www.anla.gov.co/01_anla/entidad/subdirecciones-y-oficinas/instrumentos-permisos-y-tramites-ambientales/sistema-de-informacion-geografica)
+- 🌧️ Hidrología
+- 🌄 Paisaje
+- 🐞 Servicios ecosistémicos
+- 👨‍🏫 Evaluación de impactos ambientales
+- 👨‍🏫 Elaboración de planes de manejo ambiental (PMA)
 
 Manejo con fluidez los siguientes programas:
 - [QGIS](https://www.qgis.org/es/site/)
