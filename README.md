@@ -1,6 +1,6 @@
 ## Manuel Alejandro Montealegre Martínez
 
-Ingeniero ambiental, estudiante de la [Especialización en Sistemas de Información Geográfica de la Universidad Nacional, sede Medellín.](https://cienciasagrarias.medellin.unal.edu.co/especializaciones/especializacion-en-sistemas-de-informacion-geografica.html)
+Ingeniero ambiental, especialista en Sistemas de Información Geográfica [Especialización en Sistemas de Información Geográfica de la Universidad Nacional, sede Medellín.](https://cienciasagrarias.medellin.unal.edu.co/especializaciones/especializacion-en-sistemas-de-informacion-geografica.html)
 Tengo experiencia en elaboración de Estudios de Impacto Ambiental (EIA) aplicando la normatividad colombiana (Términos de referencia de la Autoridad Nacional de Licencias Ambientales -ANLA- y Corporaciones Autónomas Regionales).
 
 Durante mi vida profesional he aplicado mis conocimientos en programación y manejo de sistemas de información geográfica para llevar a cabo estudios de impacto ambiental para la obtención y modificación de licencias ambientales para proyectos como Pequeñas Centrales Hidroeléctricas (PCH), líneas de transmisión de energía, vías férreas y proyectos de minería, para empresas como [EPM](https://www.epm.com.co/), [ISA Intercolombia](https://www.isaintercolombia.com/), [ISAGEN](https://www.isagen.com.co/es/web/guest/home), entre otras.
